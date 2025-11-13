@@ -48,6 +48,8 @@ The objective of this research is to develop a deep learning model that classifi
 
 ## Results
 
+![Output](https://raw.githubusercontent.com/ok-jana/breast-cancer-detection/refs/heads/main/Figure_1.png)
+
 ### Model Performance
 - **Test Accuracy**: 98.25%
 - **Precision**: 0.97 (Malignant), 1.00 (Benign)
@@ -127,4 +129,5 @@ Future work could include:
 
 ## Code Availability
 The complete implementation is available in `breast_cancer_detection.py`, including data preprocessing, model training, evaluation, and prediction functions.
+
 
