@@ -1,4 +1,4 @@
-# Breast Cancer Detection Using Deep Learning: Research Paper Key Points
+# Breast Cancer Detection Using Deep Learning (Project - I)
 
 ## Abstract
 This study presents a deep learning-based approach for classifying breast tumors as malignant or benign using the Breast Cancer Wisconsin Diagnostic Dataset. A neural network model was developed and trained, achieving high accuracy in tumor classification, demonstrating the potential of deep learning in medical diagnostics.
@@ -127,3 +127,4 @@ Future work could include:
 
 ## Code Availability
 The complete implementation is available in `breast_cancer_detection.py`, including data preprocessing, model training, evaluation, and prediction functions.
+
